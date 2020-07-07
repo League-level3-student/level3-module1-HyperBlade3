@@ -25,7 +25,6 @@ beautiful
 believe
 beneficial
 bliss
-bountiful
 bounty
 brave
 bravo
@@ -34,7 +33,6 @@ bubbly
 calm
 celebrated
 certain
-champ
 champion
 charming
 cheery
@@ -57,9 +55,7 @@ distinguished
 divine
 earnest
 easy
-ecstatic
 effective
-effervescent
 efficient
 effortless
 electrifying
@@ -97,7 +93,6 @@ generous
 genius
 genuine
 giving
-glamorous
 glowing
 good
 gorgeous
@@ -145,7 +140,6 @@ light
 learned
 lively
 lovely
-lucid
 lucky
 luminous
 marvelous
@@ -161,7 +155,6 @@ nice
 novel
 now
 nurturing
-nutritious
 okay
 one
 one-hundred percent
@@ -211,8 +204,6 @@ simple
 skilled
 skillful
 smile
-soulful
-sparkling
 special
 spirited
 spiritual
@@ -233,23 +224,18 @@ thriving
 tops
 tranquil
 transforming
-transformative
 trusting
 truthful
 unreal
 unwavering
 up
-upbeat
 upright
-upstanding
 valued
-vibrant
 victorious
 victory
 vigorous
 virtuous
 vital
-vivacious
 wealthy
 welcome
 well
@@ -259,7 +245,6 @@ willing
 wonderful
 wondrous
 worthy
-wow
 yes
 yummy
 zeal

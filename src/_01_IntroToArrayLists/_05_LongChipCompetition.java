@@ -16,6 +16,21 @@ public class _05_LongChipCompetition {
 
 	public static void main(String[] args) {
 		_05_LongChipCompetition lcc = new _05_LongChipCompetition();
+		lcc.initializeBeatles();
+		
+		Beatle beatles = new Beatle("");
+		double longestChip = 0;
+		
+		for (int i = 0; i < lcc.theBeatles.size(); i++) {
+			for (int x = 0; x < lcc.theBeatles.get(i).getChips().size(); x++) {
+				if (lcc.theBeatles.get(i).getChips().get(x).getLength() > longestChip ) {
+					longestChip = lcc.theBeatles.get(i).getChips().get(x).getLength();
+					beatles = lcc.theBeatles.get(i);
+				}
+			}
+		}
+		
+		System.out.println(beatles.getName());
 		
 	}
 	

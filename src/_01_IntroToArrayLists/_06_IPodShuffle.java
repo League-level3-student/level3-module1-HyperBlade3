@@ -9,8 +9,10 @@ import java.util.Random;
 public class _06_IPodShuffle{
 	public _06_IPodShuffle() {
 		// 1. Use the Song class the play the demo.mp3 file.
-				
-				
+		Song player = new Song("demo.mp3");	
+		player.play();	
+		player.setDuration(10);
+		player.stop();
 		/**
 		 * 2. Congratulations on completing the sound check! * Now we want to make an
 		 * iPod Shuffle that plays random music. * Create an ArrayList of Songs and a
